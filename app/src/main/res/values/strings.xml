@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UIShow</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="header_search_behavior">com.libinbin.uishow.behavior.HeaderSearchBehavior</string>
+    <string name="header_scrolling_behavior">com.libinbin.uishow.behavior.HeaderScrollingBehavior</string>
+    <string name="header_logo_behavior">com.libinbin.uishow.behavior.HeaderLogoBehavior</string>
+</resources>
